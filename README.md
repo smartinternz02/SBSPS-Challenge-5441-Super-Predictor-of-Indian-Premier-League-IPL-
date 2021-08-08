@@ -12,7 +12,7 @@ Team Size :  3
 <br>
 Bussiness Challenge :  Super Predictor of Indian Premier League (IPL)
 
-## General Description 
+## General Description :
 <br>
 IPL is the most popular cricket league in India with players from across the world. IPL is a
 professional Twenty20 cricket league founded by the Board of Control for Cricket in India (BCCI) in
@@ -22,7 +22,7 @@ With all this, the amount of data being generated in terms of matches revenue sc
 become huge. Analyzing such vast amounts of data would give great insights in forecasting match
 results ,top scores and wicket takers etc.
 
-## Business / Social Impact
+## Business / Social Impact :
 The craze of Indian Premier League (IPL) is enormous throughout the globe.
 Our solution will help to attract the franchise fans to watch the games and support their
 favourite teams based on the predictions. Players will be motivated and charged up to
@@ -45,7 +45,7 @@ Associated parties can be benefited.
 <br>
 Companies can purchase Media rights to promote their products.
 
-## Technology 
+## Technology :
 **IBM Cognos Analytics**
 <br>
 <br>
@@ -53,7 +53,7 @@ We can explore data and easily communicate the analysis and insights that are di
 creating Dashboards.
 <br>
 <br>
-## Scope of the Work:
+## Scope of the Work :
 This work aims at understanding the dataset of past 10 years history of the IPL data. It helps
 to understand different technologies and tools of IBM services.
 <br>
@@ -70,6 +70,6 @@ By making use of this, Indian Premier League and the fan followers can take deci
 the team’s performance and predict the trophy winners that will lead to success in future.
 <br>
 <br>
-## Solution Document Link 
+## Solution Document Link :
 https://drive.google.com/file/d/1CuYdfRBnjBCOVI3rwjaAdW5X2WJ7JA4v/view?usp=sharing
 
